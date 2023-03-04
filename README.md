@@ -5,8 +5,8 @@ We learn 10 sprints duting 4 months program.
 
 - Spreadsheets
 
-
 - SQL Database
+
 [https://replit.com/@SodaPlum/SQLHOMEWORKbatch6-PP?v=1](https://replit.com/join/dbmpwxawzm-sodaplum)
 
 - R Programming
@@ -21,8 +21,6 @@ https://public.tableau.com/shared/S474G3HMK?:display_count=n&:origin=viz_share_l
 https://lookerstudio.google.com/s/t8kBs2NVeIM
 
 - Statistics
-
-
 - Intro to 'classical' ML
 - Intro to Python
 - Essential Python for Data Analyst
